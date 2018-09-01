@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6e6283e7b4e1a7802771bd1de81cf88d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9659ac67d258503848e4a19ee14e7b40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d2b16a0098ddc5deae5a04f069c33c05/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5b6b16c2b77690591413261306b082f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/2565f48c600c782422f5f7712b9cfab3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/7cd4bb97cc2ce9d1701cef287199e442/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/598177a31c5192e00a40d89086b3b1ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/1389484e9d55ef7b3e3de1936e12249b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/66aa569c81a95f04bc83bba5df3ae241/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/06b8f9fc6d641388168feeb462b794ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9ad5bfc0768d728bf137db8ae8f6cc2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1964b96e44226c463f8d30306eef682d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/cd02d9d19a8ef88c7d1e2d2e7996d3b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/322f2a22ecd9fa7097bb4b30605ad469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/e8d35566e61759af488d5825750470be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/991771b48f57695f7f957ee3a4677f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0134483890879e772af18a8c1e1f9819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f45aa0915fe3cc54e9807a5fc3119b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/2a35dc340873550e10d88dc3d5319a84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/601ebad8925455e218982db7b006afe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/24b1c3d03ccc2b46424f74f902a09b7d/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/365af600d48de79dbe1e57c7b7a4934e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/928fbd5ed7f025a992854c7a127e401e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b19be3c88e1bed79b098cc0c1250376/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/e912b71341a9f5d9a31f5179f7e97cae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/c92ad96fa08c2b2ac21d0a4fdbe53166/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/1e63a417dfb35a76213a53d40f75ddbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77043ff93065d7be197afbd0f58a7ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/e9e4a5dadc9aaaefb80f0ca658ae4723/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/973dced26e7604ea754dec5c5a05eda9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6e6283e7b4e1a7802771bd1de81cf88d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6e6283e7b4e1a7802771bd1de81cf88d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d2b16a0098ddc5deae5a04f069c33c05/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d2b16a0098ddc5deae5a04f069c33c05/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/24b1c3d03ccc2b46424f74f902a09b7d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/24b1c3d03ccc2b46424f74f902a09b7d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.khilman.www.footbalmatchschedulenetwork.view.activitiy.MainActivity
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:14:63-93
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:14:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.khilman.www.footbalmatchschedulenetwork.view.activitiy.DetailActivity
+ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:21:9-163
+	android:parentActivityName
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:21:94-151
+	android:label
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:21:65-93
+	android:name
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml:21:19-64
+uses-sdk
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6e6283e7b4e1a7802771bd1de81cf88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/6e6283e7b4e1a7802771bd1de81cf88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9659ac67d258503848e4a19ee14e7b40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9659ac67d258503848e4a19ee14e7b40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d2b16a0098ddc5deae5a04f069c33c05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d2b16a0098ddc5deae5a04f069c33c05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5b6b16c2b77690591413261306b082f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/5b6b16c2b77690591413261306b082f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/2565f48c600c782422f5f7712b9cfab3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/2565f48c600c782422f5f7712b9cfab3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/7cd4bb97cc2ce9d1701cef287199e442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/7cd4bb97cc2ce9d1701cef287199e442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/598177a31c5192e00a40d89086b3b1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/598177a31c5192e00a40d89086b3b1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/1389484e9d55ef7b3e3de1936e12249b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/1389484e9d55ef7b3e3de1936e12249b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/66aa569c81a95f04bc83bba5df3ae241/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/66aa569c81a95f04bc83bba5df3ae241/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/06b8f9fc6d641388168feeb462b794ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/06b8f9fc6d641388168feeb462b794ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9ad5bfc0768d728bf137db8ae8f6cc2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9ad5bfc0768d728bf137db8ae8f6cc2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1964b96e44226c463f8d30306eef682d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/1964b96e44226c463f8d30306eef682d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/cd02d9d19a8ef88c7d1e2d2e7996d3b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/cd02d9d19a8ef88c7d1e2d2e7996d3b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/322f2a22ecd9fa7097bb4b30605ad469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/322f2a22ecd9fa7097bb4b30605ad469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/e8d35566e61759af488d5825750470be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/e8d35566e61759af488d5825750470be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/991771b48f57695f7f957ee3a4677f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/991771b48f57695f7f957ee3a4677f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0134483890879e772af18a8c1e1f9819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/0134483890879e772af18a8c1e1f9819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f45aa0915fe3cc54e9807a5fc3119b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f45aa0915fe3cc54e9807a5fc3119b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/2a35dc340873550e10d88dc3d5319a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/2a35dc340873550e10d88dc3d5319a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/601ebad8925455e218982db7b006afe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/601ebad8925455e218982db7b006afe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7e61c9d4e3a00a67652129c2b6bf7d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/24b1c3d03ccc2b46424f74f902a09b7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/24b1c3d03ccc2b46424f74f902a09b7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/365af600d48de79dbe1e57c7b7a4934e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/365af600d48de79dbe1e57c7b7a4934e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/928fbd5ed7f025a992854c7a127e401e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/928fbd5ed7f025a992854c7a127e401e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b19be3c88e1bed79b098cc0c1250376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b19be3c88e1bed79b098cc0c1250376/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/e912b71341a9f5d9a31f5179f7e97cae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/e912b71341a9f5d9a31f5179f7e97cae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/c92ad96fa08c2b2ac21d0a4fdbe53166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/c92ad96fa08c2b2ac21d0a4fdbe53166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/1e63a417dfb35a76213a53d40f75ddbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/1e63a417dfb35a76213a53d40f75ddbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77043ff93065d7be197afbd0f58a7ea7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77043ff93065d7be197afbd0f58a7ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/e9e4a5dadc9aaaefb80f0ca658ae4723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/e9e4a5dadc9aaaefb80f0ca658ae4723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/973dced26e7604ea754dec5c5a05eda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/973dced26e7604ea754dec5c5a05eda9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rizalhilman/Documents/git-repositories/FootbalMatchScheduleNetwork/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rizalhilman/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/af5ac2074ff44b018252a5d9482f013c/AndroidManifest.xml:9:13-64
